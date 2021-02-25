@@ -1,0 +1,5 @@
+FTPS: user/password
+MySQL: user/password
+Wordpress: magrosje/password
+Grafana: admin/admin
+SSH: user/password
